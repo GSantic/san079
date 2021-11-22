@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @san079
-- 👀 I’m interested in data science, clinical research and informatics
+- 👋 Hi, I’m Gellie. I am a registered nurse in the United Kingdom.
+- 👀 I’m interested in data science, clinical research and informatics. I am planning to gain experience in these areas in the near future.
 - 🌱 I’m currently learning python and data engineering.
 - 📚 I'm an incoming MSc Computer Science with Data Science student.
 
